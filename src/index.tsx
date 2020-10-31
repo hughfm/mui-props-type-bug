@@ -17,6 +17,7 @@ export const StringExampleProps: CardHeaderProps = {
   title: "String Title",
 };
 
+// ==== This breaks when compiling =====
 export const ElementExampleProps: CardHeaderProps = {
   title: <div>Element Title</div>,
 }
