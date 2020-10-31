@@ -1,0 +1,16 @@
+{
+  "name": "mui-type-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@material-ui/core": "^4.11.0"
+  },
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.1",
+    "typescript": "^4.0.5"
+  },
+  "scripts": {
+    "compile": "tsc"
+  }
+}
